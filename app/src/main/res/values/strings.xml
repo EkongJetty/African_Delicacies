@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kotlin_Food_App</string>
+    <string name="Food1">Afang Soup\nCost: N3000</string>
+    <string name="Food2">Burger\nCost: N3500</string>
+    <string name="Food3">Egusi\nCost: N4000</string>
+    <string name="Food4">Moin Moin\nCost: N3900</string>
+    <string name="Food5">Ogbono\nCost: N4000</string>
+    <string name="Food6">Porridge Beans\nCost: N3110</string>
+    <string name="Food7">Pounded Yam\nCost: N2300</string>
+    <string name="Food8">Suya Rice\nCost: N1500</string>
+    <string name="Food9">Shimp\nCost: N2190</string>
+    <string name="Food10">Spagatti Soup\nCost: N3410</string>
+
+
+</resources>
